@@ -291,6 +291,12 @@ Hourly Equivalent = Net Annual / (hours/week × 52)
 - [Census Bureau PUMS](https://www.census.gov/programs-surveys/acs/microdata/access.html) — Individual-level earnings and tax microdata.
 - [SSA Wage Statistics](https://www.ssa.gov/cgi-bin/netcomp.cgi) — Social Security wage distribution data.
 
+
+### Calculators
+
+
+- [MyOvertimeTax — No Tax on Overtime Calculator](https://myovertimetax.com/) — Free calculator for the 2025–2028 federal overtime tax deduction (OBBBA §70202); estimates the deductible FLSA premium half and tax savings by filing status.
+
 ---
 
 ## Capital Gains & Investment Tax
